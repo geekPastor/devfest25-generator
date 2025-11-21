@@ -75,7 +75,7 @@ async function generateVisual(photoFile, fullName) {
   ctx.font = "700 24px 'Google Sans'";
   ctx.fillText("Je serai là", 345, 675);
 
-  ctx.font = "300 18px 'Google Sans'";
+  ctx.font = "700 18px 'Google Sans'";
   ctx.fillText("20.12.2025", 590, 593);
 
   // === 4️⃣ Bouton de téléchargement + ouverture popup ===
